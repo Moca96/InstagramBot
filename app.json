@@ -59,12 +59,12 @@
     },
     "INSTA_USERNAME": {
       "description": "Get this value from my.telegram.org.",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "INSTA_PASSWORD": {
       "description": "Get this value from my.telegram.org.",
-      "required": true,
+      "required": false,
       "value": ""
     }
   }
