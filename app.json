@@ -52,6 +52,11 @@
       "required": false,
       "value": ""
     },
+    "DATABASE_URL": {
+      "description": "Add new sql",
+      "required": false,
+      "value": "" 
+    },
     "INSTA_USERNAME": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
